@@ -1,0 +1,44 @@
+body {
+  margin: 0px 20%;
+  background-color: #e6e6eb;
+}
+
+.header {
+  text-align: center;
+}
+
+.form {
+background-color: white;
+
+}
+
+.inline-left {
+  display: inline-block;
+  width: 40%;
+  text-align: right;
+
+}
+
+.inline-right {
+  display: inline-block;
+  width: 30%;
+  height: 20px;
+  margin-left: 30px;
+}
+
+.right {
+  width: 20%;
+  height: 20px;
+  margin-left: 10px;
+}
+
+.calcu button {
+  margin-left: 40%;
+  background-color: red;
+  padding: 10px 10px 20px 10px;
+  border-radius: 10px;
+  color: white;
+  width: 100px;
+  height: 20px;
+  outline: none;
+}
